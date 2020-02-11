@@ -9,7 +9,7 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lazy load background images of Elementor sections and columns. Requires a plugin that includes Waypoints JS library as well.
+Lazy load background images of Elementor sections and columns.
 
 == Description ==
 
