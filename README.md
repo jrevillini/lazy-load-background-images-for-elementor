@@ -1,4 +1,4 @@
-=== Lazy Load Elementor Background Images ===
+# Lazy Load Elementor Background Images
 Contributors: jrevillini
 Donate link: https://james.revillini.com/
 Tags: performance, lazyload, elementor, background images
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Lazy load background images of Elementor sections and columns. Requires a plugin that includes Waypoints JS library as well.
 
-== Description ==
+## Description
 
 A major drawback to using Elementor is that the background images used for sections and columns are all loaded when the page loads. Using a plugin like WP Rocket or BJ Lazy Load will not solve this issue. **This plugin fixes that.**
 
